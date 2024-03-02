@@ -4,7 +4,16 @@ Next Create New Folder in Out Pc
 
 Create any document and save it
 
+Use "git init"  to import git files
+
+
 Use "git add ."(OR)"git add @filename" To move our file to Staging Area
 
 Use "git commit -m "@Message"" to To move our file to local Repository
+
+Use "git branch -M main" to change it to a main branch
+
+Use "git remote add origin @http:///...." to link our local repository  remote repository
+
+Finally Use  "git push -u orgin main" to update out file from local repository to global repository
 
