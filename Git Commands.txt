@@ -1,0 +1,10 @@
+First Create new Repository in GitHub Account
+
+Next Create New Folder in Out Pc
+
+Create any document and save it
+
+Use "git add ."(OR)"git add @filename" To move our file to Staging Area
+
+Use "git commit -m "@Message"" to To move our file to local Repository
+
